@@ -5,19 +5,15 @@
 **Solana Developer • Web3 Builder • Full-Stack Engineering**
 
 </div>
-I am a blockchain developer focused on building high-performance products on Solana. My work is guided by scalability, solid architecture, and real on-chain utility.
 
-### What I focus on 📚
-- High-performance development on **Solana**
-- Systems built from **first principles**
-- Scalable products designed to grow
-- Real-world asset tokenization (RWA)
-- Automated financial systems
-- New models of digital ownership
-- High-performance Solana bots
+I'm a blockchain developer focused on building fast, scalable products on Solana. I like working on things that actually run on-chain and can handle real usage, not just hype.
 
+Right now I'm mainly interested in:
+- High-performance on-chain systems
+- Tracking and automation for crypto assets
+- Real utility products built on Solana’s speed and low fees
 
-## Languages and Tools
+I care about understanding how things work at a deep level and building systems that can grow without breaking.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/>&nbsp;
